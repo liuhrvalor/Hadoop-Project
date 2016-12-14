@@ -1,3 +1,3 @@
 # Hadoop-Project
 
-Run these codes on hadoop
+Run these code on hadoop
